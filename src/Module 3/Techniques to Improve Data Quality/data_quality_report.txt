@@ -1,0 +1,17 @@
+--- Data Quality Report ---
+
+Expectation: column_values_not_be_null
+Column: col1
+Success: False
+Details: Number of null values: 1
+------------------------------
+Expectation: column_values_in_set
+Column: col2
+Success: False
+Details: Invalid values: ['E']
+------------------------------
+Expectation: column_values_between
+Column: col3
+Success: False
+Details: Out of range values: [60]
+------------------------------
