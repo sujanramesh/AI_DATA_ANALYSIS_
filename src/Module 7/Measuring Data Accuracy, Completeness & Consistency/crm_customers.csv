@@ -1,0 +1,7 @@
+customer_id,name,email,crm_segment
+C101,Alice Smith,alice.s@crm.com,Premium
+C102,Bob Johnson,bob.j@crm.com,Standard
+C103,Charlie Brown,charlie.b@crm.com,VIP
+C104,David Lee,david.l@crm.com,Standard
+C105,Eve Davis,eve.d@crm.com,Premium
+C106,Frank White,frank.w@crm.com,Standard
