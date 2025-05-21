@@ -1,0 +1,33 @@
+2025-05-21 16:42:10,551 - INFO - Data Quality Monitoring System Initialized.
+2025-05-21 16:42:10,558 - INFO - Monitoring system will run every 5 seconds for 30 seconds (conceptual).
+2025-05-21 16:42:10,561 - INFO - --- Starting Data Quality Metric Calculation ---
+2025-05-21 16:42:10,586 - INFO - [2025-05-21 16:42:10] company_prices.csv - Missing 'price' percentage: 0.00%
+2025-05-21 16:42:10,707 - INFO - [2025-05-21 16:42:10] CRM/ERP - Email conflict percentage: 60.00%
+2025-05-21 16:42:10,725 - INFO - --- Finished Data Quality Metric Calculation ---
+2025-05-21 16:42:10,737 - INFO - Next run in 5 seconds...
+2025-05-21 16:42:15,744 - INFO - --- Starting Data Quality Metric Calculation ---
+2025-05-21 16:42:15,758 - INFO - [2025-05-21 16:42:15] company_prices.csv - Missing 'price' percentage: 0.00%
+2025-05-21 16:42:15,779 - INFO - [2025-05-21 16:42:15] CRM/ERP - Email conflict percentage: 60.00%
+2025-05-21 16:42:15,789 - INFO - --- Finished Data Quality Metric Calculation ---
+2025-05-21 16:42:15,796 - INFO - Next run in 5 seconds...
+2025-05-21 16:42:20,804 - INFO - --- Starting Data Quality Metric Calculation ---
+2025-05-21 16:42:20,808 - INFO - [2025-05-21 16:42:20] company_prices.csv - Missing 'price' percentage: 0.00%
+2025-05-21 16:42:20,820 - INFO - [2025-05-21 16:42:20] CRM/ERP - Email conflict percentage: 60.00%
+2025-05-21 16:42:20,826 - INFO - --- Finished Data Quality Metric Calculation ---
+2025-05-21 16:42:20,827 - INFO - Next run in 5 seconds...
+2025-05-21 16:42:25,833 - INFO - --- Starting Data Quality Metric Calculation ---
+2025-05-21 16:42:25,837 - INFO - [2025-05-21 16:42:25] company_prices.csv - Missing 'price' percentage: 0.00%
+2025-05-21 16:42:25,841 - INFO - [2025-05-21 16:42:25] CRM/ERP - Email conflict percentage: 60.00%
+2025-05-21 16:42:25,842 - INFO - --- Finished Data Quality Metric Calculation ---
+2025-05-21 16:42:25,843 - INFO - Next run in 5 seconds...
+2025-05-21 16:42:30,845 - INFO - --- Starting Data Quality Metric Calculation ---
+2025-05-21 16:42:30,848 - INFO - [2025-05-21 16:42:30] company_prices.csv - Missing 'price' percentage: 0.00%
+2025-05-21 16:42:30,853 - INFO - [2025-05-21 16:42:30] CRM/ERP - Email conflict percentage: 60.00%
+2025-05-21 16:42:30,854 - INFO - --- Finished Data Quality Metric Calculation ---
+2025-05-21 16:42:30,855 - INFO - Next run in 5 seconds...
+2025-05-21 16:42:35,861 - INFO - --- Starting Data Quality Metric Calculation ---
+2025-05-21 16:42:35,864 - INFO - [2025-05-21 16:42:35] company_prices.csv - Missing 'price' percentage: 0.00%
+2025-05-21 16:42:35,869 - INFO - [2025-05-21 16:42:35] CRM/ERP - Email conflict percentage: 60.00%
+2025-05-21 16:42:35,870 - INFO - --- Finished Data Quality Metric Calculation ---
+2025-05-21 16:42:35,871 - INFO - Next run in 5 seconds...
+2025-05-21 16:42:40,877 - INFO - Conceptual monitoring run finished.
