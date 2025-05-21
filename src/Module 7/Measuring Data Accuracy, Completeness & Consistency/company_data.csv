@@ -1,0 +1,9 @@
+customer_id,name,age,email,city
+C101,Alice,30.0,alice@example.com,New York
+C102,Bob,24.0,bob@example.com,Los Angeles
+C103,Charlie,,charlie@example.com,Chicago
+C104,David,45.0,,Houston
+C105,Eve,28.0,eve@example.com,
+C106,Frank,,frank@example.com,Miami
+C107,Grace,35.0,grace@example.com,Seattle
+C108,,,oliver@example.com,Boston
