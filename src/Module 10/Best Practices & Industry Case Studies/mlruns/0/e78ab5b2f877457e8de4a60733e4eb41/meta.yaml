@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/AI_DATA_ANALYSIS_/src/Module%2010/Best%20Practices%20%26%20Industry%20Case%20Studies/mlruns/0/e78ab5b2f877457e8de4a60733e4eb41/artifacts
+end_time: 1748446942977
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e78ab5b2f877457e8de4a60733e4eb41
+run_name: enchanting-quail-711
+run_uuid: e78ab5b2f877457e8de4a60733e4eb41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748446939512
+status: 3
+tags: []
+user_id: vscode
