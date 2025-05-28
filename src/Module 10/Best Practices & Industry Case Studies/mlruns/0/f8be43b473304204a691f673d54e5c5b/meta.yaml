@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/AI_DATA_ANALYSIS_/src/Module%2010/Best%20Practices%20%26%20Industry%20Case%20Studies/mlruns/0/f8be43b473304204a691f673d54e5c5b/artifacts
+end_time: 1748447089781
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8be43b473304204a691f673d54e5c5b
+run_name: ecommerce_recommendation
+run_uuid: f8be43b473304204a691f673d54e5c5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748447077945
+status: 3
+tags: []
+user_id: vscode
